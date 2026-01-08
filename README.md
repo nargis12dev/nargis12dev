@@ -16,10 +16,17 @@ Here are some ideas to get you started:
 -->
 i'm nargis,a software engineering technology student .
 🌱 I’m currently learning javascript.
+
 have workes on java,python,html and css and some basic oops concepts.
+
 i have designed and createdd what i have imagine.
 
 
  😄hobbies
- Anime,music,skeching,doodling,art.
+ 
+ Anime
+ music
+ skeching
+ doodling
+ art.
  
