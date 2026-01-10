@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-i'm nargis,a software engineering technology student .
+I'm nargis,a software engineering technology student .
 🌱 I’m currently learning javascript.
 
 have workes on java,python,html and css and some basic oops concepts.
